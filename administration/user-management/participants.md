@@ -7,3 +7,6 @@ grand_parent: Administration
 ---
 
 # Participants management
+
+## Participant groups
+

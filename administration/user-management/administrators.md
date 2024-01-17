@@ -7,3 +7,7 @@ grand_parent: Administration
 ---
 
 # Administrators management
+
+## Adding administrators
+
+## Removing administrators

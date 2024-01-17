@@ -3,7 +3,6 @@ layout: default
 title: Navigating the interface
 nav_order: 1
 parent: Administration
-has_children: true
 ---
 
 # Navigating the interface
@@ -13,4 +12,8 @@ has_children: true
 ## Main Menu
 
 ## Scheduler interface
+
+### Managing Venues
+
+### Managing Topics
 
