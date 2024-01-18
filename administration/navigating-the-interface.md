@@ -9,7 +9,7 @@ parent: Administration
 
 ## Main Menu
 
-![main-veiw](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/main-view.png)
+![main-veiw](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/main-view.png?raw=true)
 
 
 The administrative interface you're viewing is the central hub for managing the schedule of your event. It is designed to give you a clear and organized view of all event-related activities, allowing for efficient and intuitive event planning.
@@ -31,7 +31,7 @@ The central area of the interface represents the timeline view of sessions in th
 
 ### Managing Locations
 
-![new-location](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-venue.png)
+![new-location](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-venue.png?raw=true))
 
 To create a new Location:
 
@@ -41,7 +41,7 @@ To create a new Location:
 
 ### Managing Topics
 
-![new-topic](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-topic.png)
+![new-topic](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-topic.png?raw=true))
 
 1. On the Scheduler interface, click the + button in the Topics menu;
 2. In the opened window, enter the name of the Topic and choose the color of the topic tag;
