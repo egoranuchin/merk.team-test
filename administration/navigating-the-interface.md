@@ -17,7 +17,7 @@ On the Left Sidebar you can see the Navigation Menu:
 
 - **Event**: The dropdown at the top allows you to select the current event you are managing.
 - **Main Menu**: This section contains the core features of your event management system including Notifications, Questions, Speakers, and other administrative tools.
-Schedule: Here you can view and manage the sessions schedule.
+- **Schedule**: Here you can view and manage the sessions schedule.
 
 ## Scheduler interface
 
