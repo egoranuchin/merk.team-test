@@ -15,15 +15,15 @@ parent: Administration
 The administrative interface you're viewing is the central hub for managing the schedule of your event. It is designed to give you a clear and organized view of all event-related activities, allowing for efficient and intuitive event planning.
 
 On the Left Sidebar you can see the Navigation Menu:
-**Event**: The dropdown at the top allows you to select the current event you are managing.
-**Main Menu**: This section contains the core features of your event management system including Notifications, Questions, Speakers, and other administrative tools.
+- **Event**: The dropdown at the top allows you to select the current event you are managing.
+- **Main Menu**: This section contains the core features of your event management system including Notifications, Questions, Speakers, and other administrative tools.
 Schedule: Here you can view and manage the sessions schedule.
 
 ## Scheduler interface
 
 The central area of the interface represents the timeline view of sessions in the selected venue.It contains the following features:
 
-* **Add Event** Button: Located at the top right, this button allows you to add new events or sessions to your schedule.
+* **Add Event** Button: Located at the top left, this button allows you to add new events or sessions to your schedule. For more information on various types of events, see the [Session types](https://egoranuchin.github.io/merk.team-test/administration/managing-sessions/sessions-types.html) article.
 * **List/Calendar Tabs**: These tabs let you switch between a list view and a calendar view of your event schedule.
 * **Days**: This section lists the days of your event, which can be expanded to view the specific events scheduled for each day.
 * **Topics**: Here you can manage the various topics that your event will cover.
