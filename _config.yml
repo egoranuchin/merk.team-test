@@ -19,6 +19,11 @@ search:
 
 heading_anchors: true
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+
 aux_links:
   Documentation Repository: https://github.com/egoranuchin/merk.team-test
 
