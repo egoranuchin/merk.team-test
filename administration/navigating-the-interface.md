@@ -35,15 +35,17 @@ The central area of the interface represents the timeline view of sessions in th
 
 To create a new Location:
 
-1. On the Scheduler interface, click the + button in the Locations menu;
+1. On the Scheduler interface, click the **+** button in the Locations menu;
 2. In the opened window, enter the name of the Location and upload a plan of the location if applicable;
-3. Click Create to save the changes.
+3. Click **Create** to save the changes.
 
 ### Managing Topics
 
-![new-topic](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-topic.png?raw=true))
+![new-topic](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-topic.png?raw=true)
 
-1. On the Scheduler interface, click the + button in the Topics menu;
+To create a new Topic:
+
+1. On the Scheduler interface, click the **+** button in the Topics menu;
 2. In the opened window, enter the name of the Topic and choose the color of the topic tag;
 3. Choose if the topic name will appear in the Scheduler interface;
-4. Click Create to save the changes.
+4. Click **Create** to save the changes.
