@@ -31,7 +31,7 @@ The central area of the interface represents the timeline view of sessions in th
 
 ### Managing Locations
 
-![new-location](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-venue.png?raw=true))
+![new-location](https://github.com/egoranuchin/merk.team-test/blob/07398b5634643ac6dc593c88da20b73baad407eb/assets/images/new-venue.png?raw=true)
 
 To create a new Location:
 
