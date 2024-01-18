@@ -9,7 +9,7 @@ grand_parent: Administration
 
 ## Presentation
 
-![new-presentation](/assets/images/new-presentation.png)
+![new-presentation](https://github.com/egoranuchin/merk.team-test/blob/fc8d6f9a739c38f8effc036875aa4273e3d642a5/assets/images/new-presentation.png?raw=true)
 
 ### Fields description
 
@@ -31,7 +31,7 @@ grand_parent: Administration
 * **Materials**: Upload files or provide links to materials relevant to the event.
 * **Override Global Settings**: Check this option if you need to apply specific settings to this event that differ from the default settings. When this box is checked, the following settings will override the default global event settings.
 
-![presentation-extra](/assets/images/presentation-extra.png)
+![presentation-extra](https://github.com/egoranuchin/merk.team-test/blob/fc8d6f9a739c38f8effc036875aa4273e3d642a5/assets/images/presentation-extra.png?raw=true)
 
 * **Questions**: Toggle this switch to enable or disable the ability for attendees to ask questions during the session.
 * **Pre-moderation**: Activate this to require that questions be approved before they are shown or addressed during the session.
@@ -42,7 +42,7 @@ grand_parent: Administration
 
 ## Coffee break, opening, another common event
 
-![new-coffee](/assets/images/new-coffee.png)
+![new-coffee](https://github.com/egoranuchin/merk.team-test/blob/fc8d6f9a739c38f8effc036875aa4273e3d642a5/assets/images/new-coffee.png?raw=true)
 
 ### Fields description
 
@@ -58,7 +58,7 @@ grand_parent: Administration
 
 ## Filler
 
-![new-filler](/assets/images/new-filler.png)
+![new-filler](https://github.com/egoranuchin/merk.team-test/blob/fc8d6f9a739c38f8effc036875aa4273e3d642a5/assets/images/new-filler.png?raw=true)
 
 ### Fields description
 
@@ -74,7 +74,7 @@ grand_parent: Administration
 
 ## Promotional block
 
-![new-ad](/assets/images/new-ad.png)
+![new-ad](https://github.com/egoranuchin/merk.team-test/blob/fc8d6f9a739c38f8effc036875aa4273e3d642a5/assets/images/new-ad.png?raw=true)
 
 ### Fields description
 
